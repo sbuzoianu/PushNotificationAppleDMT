@@ -1,0 +1,6 @@
+framework module Pods_PushNotificationAppleDMTUITests {
+  umbrella header "Pods-PushNotificationAppleDMTUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

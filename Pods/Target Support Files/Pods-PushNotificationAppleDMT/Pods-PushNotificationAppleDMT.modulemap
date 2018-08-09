@@ -1,0 +1,6 @@
+framework module Pods_PushNotificationAppleDMT {
+  umbrella header "Pods-PushNotificationAppleDMT-umbrella.h"
+
+  export *
+  module * { export * }
+}

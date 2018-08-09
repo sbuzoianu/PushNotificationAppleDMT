@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>911259329934-9je6f9q0hht4j296o2683bo94s8l5aql.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.911259329934-9je6f9q0hht4j296o2683bo94s8l5aql</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA4x1b3EsSKS8GyzvwRBRXNQ1mjtm547Cc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>911259329934</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>buzoianu.numar.PushNotificationAppleDMT</string>
+	<key>PROJECT_ID</key>
+	<string>wrenchy-48bd2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wrenchy-48bd2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:911259329934:ios:a041814310046cde</string>
+	<key>DATABASE_URL</key>
+	<string>https://wrenchy-48bd2.firebaseio.com</string>
+</dict>
+</plist>
